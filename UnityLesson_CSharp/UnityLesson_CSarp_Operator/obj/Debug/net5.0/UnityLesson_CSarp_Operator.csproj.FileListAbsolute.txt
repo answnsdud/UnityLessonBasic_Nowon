@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.exe
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.deps.json
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.runtimeconfig.json
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.dll
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\ref\UnityLesson_CSarp_Operator.dll
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\bin\Debug\net5.0\UnityLesson_CSarp_Operator.pdb
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.AssemblyInfo.cs
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.dll
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\ref\UnityLesson_CSarp_Operator.dll
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.pdb
+C:\Users\User\Source\Repos\answnsdud\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSarp_Operator\obj\Debug\net5.0\UnityLesson_CSarp_Operator.genruntimeconfig.cache
